@@ -44,6 +44,14 @@ flutter:
   assets:
    - images/background.jpeg
    - images/office.jpg
+   - images/banner.jpg
+   - images/citizen.jpg
+   - images/drivingtest.jpg
+   - images/how.jpg
+   - images/rto.jpg
+   - images/taxreceipt.jpg
+   - images/traffic.jpg
+   - images/why.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
