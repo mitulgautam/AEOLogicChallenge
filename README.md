@@ -1,5 +1,7 @@
 # aeo_logic_challenge
 This code requires Flutter version 1.2.1<br>
+Sample APK
+![Download APK](https://raw.githubusercontent.com/mitulgautam/AEOLogicChallenge/master/SampleAPK/app-release.apk)<br>
 AeoLogic Challenege Problem For Internship.
 Front Page UI Replica of mParivahan App.
 
@@ -8,5 +10,4 @@ Front Page UI Replica of mParivahan App.
 <br>
 ![alt text](https://github.com/mitulgautam/AEOLogicChallenge/blob/master/sampleOne.jpeg)
 <br>
-Sample APK
-![alt text](https://raw.githubusercontent.com/mitulgautam/AEOLogicChallenge/master/SampleAPK/app-release.apk)
+
