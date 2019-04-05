@@ -7,3 +7,6 @@ Front Page UI Replica of mParivahan App.
 ![alt text](https://github.com/mitulgautam/AEOLogicChallenge/blob/master/sampleTwo.jpeg)
 <br>
 ![alt text](https://github.com/mitulgautam/AEOLogicChallenge/blob/master/sampleOne.jpeg)
+<br>
+Sample APK
+![alt text](https://raw.githubusercontent.com/mitulgautam/AEOLogicChallenge/master/SampleAPK/app-release.apk)
